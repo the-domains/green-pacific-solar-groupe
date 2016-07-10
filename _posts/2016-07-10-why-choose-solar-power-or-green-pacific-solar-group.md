@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://green-pacific-solar-group.com/why-choose-solar-power/'
 title: Why choose Solar Power? | Green Pacific Solar Group
-datePublished: '2016-07-10T16:29:21.683Z'
-dateModified: '2016-07-10T16:16:56.213Z'
+datePublished: '2016-07-10T16:30:21.931Z'
+dateModified: '2016-07-10T16:17:03.365Z'
 starred: false
 sourcePath: _posts/2016-07-10-why-choose-solar-power-or-green-pacific-solar-group.md
 inFeed: true
